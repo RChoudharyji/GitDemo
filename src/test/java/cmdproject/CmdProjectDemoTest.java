@@ -20,4 +20,10 @@ public class CmdProjectDemoTest {
 	{
 		System.out.println("It's new demo");
 	}
+	
+	@Test
+	public void demolatest()
+	{
+		System.out.println("It's latest demo");
+	}
 }

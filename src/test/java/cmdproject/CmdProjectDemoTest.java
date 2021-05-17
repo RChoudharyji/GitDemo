@@ -10,5 +10,7 @@ public class CmdProjectDemoTest {
 		System.out.println("It's the demo one");
 		System.out.println("It's the demo two");
 		System.out.println("It's the demo three");
+		System.out.println("It's the demo four");
+		System.out.println("It's the demo five");
 	}
 }

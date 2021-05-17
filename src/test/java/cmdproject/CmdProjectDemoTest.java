@@ -8,5 +8,7 @@ public class CmdProjectDemoTest {
 	public void demo()
 	{
 		System.out.println("It's the demo one");
+		System.out.println("It's the demo two");
+		System.out.println("It's the demo three");
 	}
 }
